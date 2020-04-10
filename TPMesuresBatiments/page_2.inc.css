@@ -1,0 +1,22 @@
+table{
+	border-collapse: collapse;
+	border: 3px solid;
+	margin : 10%;
+
+}
+
+td,tr,th{
+	border: 1px solid;
+}
+
+.donnee{
+	width:100px;
+}
+
+#ajout_capteur{
+	border: 3px solid;
+	padding: 10px;
+	margin-left: 30%;
+	margin-right: 30%;
+	text-align: center;
+}

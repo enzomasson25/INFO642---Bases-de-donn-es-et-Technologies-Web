@@ -1,0 +1,26 @@
+#insertion{
+	margin-left: 30%;
+	margin-right: 30%;
+	text-align: center;
+	border: 3px solid;
+	padding: 15px;
+}
+
+table {
+	border-collapse: collapse;
+	border: 3px solid;
+}
+
+td,tr,th{
+	border: 1px solid;
+	padding: 3px;
+}
+
+#modif{
+	margin: 15%
+}
+
+#actionneurs{
+	margin-top: 5%;
+	margin-left: 25%;
+}

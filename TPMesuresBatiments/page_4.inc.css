@@ -1,0 +1,14 @@
+table {
+	border-collapse: collapse;
+	border: 3px solid;
+	margin-left: 25%;
+}
+
+td,tr,th{
+	border: 1px solid;
+	padding: 3px;
+}
+
+.red{
+	background-color : red;
+}
